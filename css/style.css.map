@@ -1,1 +1,9 @@
-{"version":3,"sources":["../sass/style.scss"],"names":[],"mappings":"AAAA;EACI,aAAY;EACZ,cAAa;EACb,wBAAuB;EACvB,iBAAgB;EAChB,eAAc;EACd,mBAAkB;CACrB;;AAED;EACI,sBAAqB;EACrB,UAAS;EACT,WAAU;EACV,cAAa;CAChB;;AAED;EACI,aAAY;EACZ,cAAa;CAChB;;AAED;EACI,iBAAgB;EAChB,aAAY;EACZ,cAAa;EACb,YAAW;CACd;;AAED;;EAEI,mBAAkB;EAClB,eAAc;EACd,aAAY;CACf;;AAED;;EAEI,gBAAe;CAClB;;AAED;EACI,YAAW;EACX,WAAU;EACV,YAAW;EACX,aAAY;EACZ,wBAAuB;EACvB,0BAAyB;EACzB,yBAAwB;CAC3B;;AAED;EACI,WAAU;EACV,WAAU;EACV,YAAW;EACX,aAAY;EACZ,wBAAuB;EACvB,0BAAyB;EACzB,0BAAyB;CAC5B","file":"style.css"}
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"../sass/style.scss"
+	],
+	"names": [],
+	"mappings": ""
+}
